@@ -9,6 +9,11 @@
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
+  "keywords": [
+    "nuxtjs",
+    "tailwindcss",
+    "shadcn"
+  ],
   "dependencies": {
     "@pinia/nuxt": "^0.5.1",
     "@radix-icons/vue": "^1.0.0",
