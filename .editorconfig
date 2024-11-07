@@ -1,0 +1,41 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+# Unix-style newlines with a newline ending every file
+[*]
+end_of_line = lf
+insert_final_newline = true
+
+# Matches multiple files with brace expansion notation
+# Set default charset
+[*.{js,jsx,ts,tsx,json,html,css,scss,sass}]
+charset = utf-8
+
+# Tab indentation (use 2 spaces width)
+[*.js]
+indent_style = space
+indent_size = 2
+
+# Denote files containing JavaScript code
+[*.{js,jsx,ts,tsx}]
+# Trailing whitespace
+trim_trailing_whitespace = true
+
+# Ensure consistent line endings
+end_of_line = lf
+
+# Use LF line endings
+[*.js]
+end_of_line = lf
+
+# Quote type
+quote_type = single
+
+# If you are using TypeScript, uncomment the following section
+# [*.ts]
+# indent_style = space
+# indent_size = 2
+# trim_trailing_whitespace = true
+# end_of_line = lf
