@@ -1,4 +1,4 @@
-# Logica Web Starter - Nuxt
+# The Tailwind Web Starter with Nuxt
 
 ## Description
 
@@ -20,14 +20,14 @@ Project boilerplate for web applications using Nuxt.js
 
 ### Icons
 
-- Lucide Icons
-- Radix Icons
+- Material Design Icons
+- Lucide Vue Next
 
 ## Todo
 
 ### Integration
 
-[] Create middleware to handle auth for Frappe API
+[] SSO Oauth integration
 
 ### Guide
 

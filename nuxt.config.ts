@@ -40,6 +40,7 @@ export default defineNuxtConfig({
     "@/styles/css/tailwind.css",
     "@/styles/css/core.css",
     "@/styles/scss/main.scss",
+    "@mdi/font/css/materialdesignicons.min.css",
   ],
 
   modules: [
