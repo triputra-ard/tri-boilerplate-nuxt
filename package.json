@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-logica-starter-app",
+  "name": "nuxt-tri-starter-app",
   "private": true,
   "type": "module",
   "scripts": {
@@ -12,7 +12,8 @@
   "keywords": [
     "nuxtjs",
     "tailwindcss",
-    "shadcn"
+    "shadcn",
+    "boilerplate"
   ],
   "dependencies": {
     "@mdi/font": "^7.4.47",
