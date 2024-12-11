@@ -15,6 +15,7 @@
     "shadcn"
   ],
   "dependencies": {
+    "@mdi/font": "^7.4.47",
     "@pinia/nuxt": "^0.5.1",
     "@radix-icons/vue": "^1.0.0",
     "@tanstack/vue-table": "^8.17.3",
