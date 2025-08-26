@@ -8,7 +8,7 @@ export default function () {
   const convertToSnakeCase = (value: string) => {
     return value.toLowerCase().replace(/\s+/g, "_").replace(/&/g, "x");
   };
-  const convertToCamelCase = (value: String) => {
+  const convertToCamelCase = (value: string) => {
     const words = value.split(" ");
     return words
       .map((word, index) =>
